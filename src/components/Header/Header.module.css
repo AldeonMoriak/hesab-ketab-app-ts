@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "B Koodak";
+  src: local("../../../public/assets/fonts/B-Koodak/Koodak_Bold.ttf");
+}
+
+.Header {
+  text-align: center !important;
+}
